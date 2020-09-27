@@ -4,12 +4,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on "Commer"
-- 🌱 I’m currently learning C# and .Net Core platform
+- I’m currently working on "Commer"
+- I’m currently learning C# and .Net Core platform
 <!-- - 👯 I’m looking to collaborate on .
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ..... !-->
-- 📫 How to reach me: thenicknovicov@gmail.com
+- How to reach me: thenicknovicov@gmail.com
 
-<--! - 😄 Pronouns: ...
+<!-- - 😄 Pronouns: ... 
 - ⚡ Fun fact: .. !-->
