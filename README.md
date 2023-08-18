@@ -3,7 +3,7 @@
 ### Information about me:
 
 - I’m currently working on "Commer"
-- I’m currently learning C# and .Net Core platform
+- I’m currently learning C# and .Net platform
 - How to reach me: thenicknovicov@gmail.com
 
 
