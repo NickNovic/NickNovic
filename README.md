@@ -2,7 +2,7 @@
 
 ### Information about me:
 
-- I’m currently working on "TBot"
+- I’m currently working on "Shelf"
 - I’m currently learning C# and .Net platform
 - How to reach me: thenicknovicov@gmail.com
 
